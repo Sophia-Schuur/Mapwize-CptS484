@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="emergency_contact"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:tag="Emergency Contact"
+        android:title="Emergency Contact" />
+</PreferenceScreen>
